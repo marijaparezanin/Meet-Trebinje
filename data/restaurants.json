@@ -9,6 +9,13 @@
             "map_link":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11268.618416592988!2d18.3468214!3d42.7106425!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134c6958583c75ff%3A0xfc217b43200fe88c!2z0KDQtdGB0YLQvtGA0LDQvSDQoNCw0YEg0KLRgNC10LHQuNGa0LU!5e1!3m2!1sen!2srs!4v1728772576694!5m2!1sen!2srs"
         },
         {
+            "image_source":"images/restaurants/hercegovacka_prica.jpg",
+            "alt_name": "Restaurant Hercegovačka Priča",
+            "name": "Hercegovačka Priča",
+            "description": "An authentic Herzegovinian restaurant that celebrates local tradition through its rustic ambiance, carefully prepared regional specialties, and warm hospitality. It offers visitors a genuine taste of Herzegovina in the heart of Trebinje.",
+            "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2931.6244519378447!2d18.3443185!3d42.7116721!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134c69170506499b%3A0xdfdd8f059e319cca!2sCaffe%20Restaurant%20Hercegovacka%20Prica!5e0!3m2!1sen!2srs!4v1780507156522!5m2!1sen!2srs"
+        },
+        {
             "image_source":"images/restaurants/humsko.jpg",
             "alt_name": "Restaurant Humsko",
             "name": "Humsko",
