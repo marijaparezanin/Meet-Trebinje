@@ -21,7 +21,21 @@
             "name": "Old Town Fountain",
             "description": "Glass panels surrounding the fountain reveal archaeological remains uncovered during recent restoration works, creating a fascinating view of the city's history. The fountain was built as a tribute to the historic fountain that once stood on this site and the legacy of Jovan Dučić, one of Trebinje's most celebrated citizens",
             "map_link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d323.16026529596223!2d18.3463284!3d42.71091711202636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134c69004d8cdb17%3A0xac17db9a2ac1b55!2zxIxlc21hIEpvdmFudSBEdcSNacSHdQ!5e0!3m2!1sen!2srs!4v1780509331016!5m2!1sen!2srs" 
-        },      
+        },    
+        {
+            "image_source":"images/attractions/platani.jpg",
+            "alt_name": "Platani",
+            "name": "Platani",
+            "description": "The iconic plane trees of Trebinje are among the city's most recognizable symbols. According to a local legend, Austro-Hungarian commander Baron Babić planted 16 plane trees in memory of his daughter, who passed away at the age of sixteen. Today, their magnificent canopies provide shade in the heart of the city to many cafes and people walking by.",
+            "map_link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2817.0922001179106!2d18.370606475989177!3d42.71201737116241!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134c69023c40972b%3A0x344695b3cd6744c4!2sHotel%20Studenac!5e1!3m2!1sen!2srs!4v1728806684826!5m2!1sen!2srs"
+        },  
+        {
+            "image_source":"images/attractions/pijacaA.jpg",
+            "alt_name": "Green Market",
+            "name": "Green Market",
+            "description": "Visitors can browse fresh fruits and vegetables, local honey, wines, cheeses, herbs, and other authentic Herzegovinian products while experiencing the vibrant atmosphere of daily life in Trebinje.",
+            "map_link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2817.0922001179106!2d18.370606475989177!3d42.71201737116241!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134c69023c40972b%3A0x344695b3cd6744c4!2sHotel%20Studenac!5e1!3m2!1sen!2srs!4v1728806684826!5m2!1sen!2srs"
+        },
         {
             "image_source":"images/attractions/grad_sunca.jpg",
             "alt_name": "Grad Sunca",
