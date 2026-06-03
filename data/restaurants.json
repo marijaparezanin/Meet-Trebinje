@@ -23,6 +23,13 @@
             "map_link": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11268.524026386718!2d18.3476075!3d42.7111624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134c69c520e6860b%3A0x5691ab400f75e808!2sRestaurant%20%22Humsko%22!5e1!3m2!1sen!2srs!4v1728773232578!5m2!1sen!2srs"
         },
         {
+            "image_source":"images/restaurants/bottega.jpg",
+            "alt_name": "Bottega",
+            "name": "Bottega",
+            "description": "Bottega Wine & Tapas Bar offers a modern dining experience with a carefully curated selection of wines and Mediterranean-inspired dishes. Known for its stylish atmosphere, attention to detail, and fresh ingredients, it is an ideal spot for brunch, a relaxed lunch, or an evening gathering.",
+            "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2931.652641262311!2d18.3423425!3d42.7110753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x134c690a4098b4d3%3A0x36ec6f3435f40277!2sBottega%20Wine%26Tapas%20Bar!5e0!3m2!1sen!2srs!4v1780508418902!5m2!1sen!2srs"
+        },
+        {
             "image_source":"images/restaurants/studenac.jpg",
             "alt_name": "Restaurant Studenac",
             "name": "Studenac",
